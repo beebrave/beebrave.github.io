@@ -77,12 +77,13 @@
     "uniqCompNum": 113,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "noImageResize": "true"
   },
   "pages": {
     "Resources.html": {
