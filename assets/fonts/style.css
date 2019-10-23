@@ -3,8 +3,3 @@
    font-display: swap;
    src: url('Shango Medium/font.woff');
 }
-@font-face {
-   font-family: 'Shango Bold';
-   font-display: swap;
-   src: url('Shango Bold/font.woff');
-}
