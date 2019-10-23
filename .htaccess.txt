@@ -1,0 +1,7 @@
+AuthUserFile beebrave/beebrave.github.io/.htpasswd
+AuthType Basic
+AuthName "My Secret Page"
+
+<Files "Resources.html">
+  Require valid-user
+</Files>
