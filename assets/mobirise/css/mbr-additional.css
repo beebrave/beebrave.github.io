@@ -4503,7 +4503,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-rGL3nccYVE .mbr-gallery-item > div:hover:before {
-  opacity: 0.6 !important;
+  opacity: 0.5 !important;
 }
 .cid-rGL3nccYVE .mbr-gallery-title {
   font-size: .9em;
@@ -4524,7 +4524,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #f89daf !important;
-  opacity: 0.6;
+  opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
