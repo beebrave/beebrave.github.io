@@ -703,14 +703,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rFt3IgnQaL {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rFt3IgnQaL .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-rFI8lCdoMJ {
   background: #ffffff;
 }
@@ -1489,22 +1481,6 @@ section.lazy-placeholder:after {
 .cid-rGL0UIzl1E .dropdown-item:hover {
   color: #f89daf !important;
 }
-.cid-rFI7Sj9jro {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rFI7Sj9jro .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rEUDGpnGzT {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rEUDGpnGzT .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-rFI8i7FCzO {
   background: #ffffff;
 }
@@ -2036,14 +2012,6 @@ section.lazy-placeholder:after {
 .cid-rGL0UIzl1E .nav-link:hover,
 .cid-rGL0UIzl1E .dropdown-item:hover {
   color: #f89daf !important;
-}
-.cid-rFsZWFOVPU {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rFsZWFOVPU .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-rFI8pmd9pE {
   background: #ffffff;
@@ -2587,14 +2555,6 @@ section.lazy-placeholder:after {
 .cid-rGL0UIzl1E .nav-link:hover,
 .cid-rGL0UIzl1E .dropdown-item:hover {
   color: #f89daf !important;
-}
-.cid-rEUHMn2keZ {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rEUHMn2keZ .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-rFI8Ji9NS8 {
   background: #ffffff;
@@ -3218,14 +3178,6 @@ section.lazy-placeholder:after {
 .cid-rGL0UIzl1E .nav-link:hover,
 .cid-rGL0UIzl1E .dropdown-item:hover {
   color: #f89daf !important;
-}
-.cid-rFFFxnX8gt {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rFFFxnX8gt .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-rFI8tvoNhE {
   background: #ffffff;
@@ -3919,6 +3871,29 @@ section.lazy-placeholder:after {
 .cid-rGL0UIzl1E .dropdown-item:hover {
   color: #f89daf !important;
 }
+.cid-rEUvxdUujW {
+  background: #ffffff;
+}
+.cid-rEUvxdUujW .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rEUvxdUujW .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rEUvxdUujW figcaption {
+  position: relative;
+}
+.cid-rEUvxdUujW figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rEUvxdUujW .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rGL0UIzl1E .navbar {
   background: #ffffff;
   transition: none;
@@ -4321,37 +4296,6 @@ section.lazy-placeholder:after {
 .cid-rGL0UIzl1E .dropdown-item:hover {
   color: #f89daf !important;
 }
-.cid-rFI7ASW0zh {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rFI7ASW0zh .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rEUvxdUujW {
-  background: #ffffff;
-}
-.cid-rEUvxdUujW .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rEUvxdUujW .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rEUvxdUujW figcaption {
-  position: relative;
-}
-.cid-rEUvxdUujW figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rEUvxdUujW .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rGLe01KgKV {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4492,14 +4436,6 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #f89daf;
-}
-.cid-rGGqTQJ96q {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rGGqTQJ96q .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-rGGqTRdLgC {
   background: #ffffff;
@@ -5550,22 +5486,6 @@ section.lazy-placeholder:after {
 .cid-rGL0UIzl1E .nav-link:hover,
 .cid-rGL0UIzl1E .dropdown-item:hover {
   color: #f89daf !important;
-}
-.cid-rEULrLaTbp {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rEULrLaTbp .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rEULrMg1Tl {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rEULrMg1Tl .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-rFI7JDhFt5 {
   background: #ffffff;
