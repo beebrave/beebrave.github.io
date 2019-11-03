@@ -2076,6 +2076,14 @@ section.lazy-placeholder:after {
 .cid-rFsZWH6Nqg H2 {
   color: #ffffff;
 }
+.cid-rGLvBNF9Wj {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rGLvBNF9Wj .mbr-section-subtitle {
+  color: #232323;
+}
 .cid-rFt1e8Ofjz {
   padding-top: 0px;
   padding-bottom: 30px;
@@ -2140,6 +2148,7 @@ section.lazy-placeholder:after {
 .cid-rFt1e8Ofjz .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 .cid-rFt1e8Ofjz .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
@@ -2159,7 +2168,7 @@ section.lazy-placeholder:after {
 }
 .cid-rFt1e8Ofjz .card-title {
   text-align: center;
-  color: #232323;
+  color: #f89daf;
 }
 .cid-rGL2aEgfks {
   padding-top: 0px;
@@ -2170,7 +2179,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rGL2aEgfks H1 {
-  color: #f89daf;
+  color: #232323;
 }
 .cid-rFsZWJdgTf {
   padding-top: 30px;
