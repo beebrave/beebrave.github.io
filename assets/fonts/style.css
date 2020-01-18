@@ -1,5 +1,4 @@
 @font-face {
-   font-family: 'Shango Medium';
-   font-display: swap;
-   src: url('Shango Medium/font.woff');
+   font-family: 'shango-medium';
+   src: url('shango-medium/font.ttf');
 }
